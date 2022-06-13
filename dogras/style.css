@@ -1,0 +1,22 @@
+
+* {
+    margin: 0px;
+}
+
+body {
+    background-color: black;
+    padding: 20px;
+}
+
+    header {
+        text-align: center;
+        background-color: rgba(69, 60, 60, 0.285);
+        color: white;
+        padding: 5px;
+}
+
+main {
+    background-color: white;
+    padding: 10px;
+    text-align: justify;
+}
